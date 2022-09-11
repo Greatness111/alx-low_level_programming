@@ -22,10 +22,10 @@ int main(void)
 	{
 		print("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
-		
+
 return (0);
 }
