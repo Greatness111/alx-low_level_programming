@@ -1,15 +1,14 @@
 #include "main.h"
 
 /**
- * main - prints putcher
- * Return: always 0
+ * main - Entry point
+ *
+ * Return: 0 nothing, return void
  */
 
 int main(void)
 
 {
-
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
